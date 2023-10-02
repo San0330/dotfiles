@@ -2,3 +2,5 @@
 [user]
 	name = Santosh Neupane
 	email = 40764689+San0330@users.noreply.github.com
+[core]
+	editor = nvim
